@@ -1,0 +1,51 @@
+table{
+    border-collapse:collapse;
+    margin: 0 auto;
+
+}
+.tab th,.tab td
+{
+    border-collapse:collapse;
+
+    font-family: Helvetica;
+    font-size: 20px;
+        border-bottom: 3px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+.w{
+    width: 350px;
+}
+.tit th,.tit td
+{
+
+    width: 1058px;
+    border-collapse:collapse;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 28px;
+    
+}
+.izquierda{
+    text-align: left;
+        border-bottom: 3px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+.centro{
+    text-align: center;
+    border-bottom: 3px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+
+.uno{
+    background-color: rgba( 28, 150, 216, 0.316 );
+}
+img{
+    padding-right: 10%;
+    padding-left: -30%
+}
